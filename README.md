@@ -15,7 +15,7 @@ pip install --user -r requirements.txt
 ```
 2.Running the Script 
 ```
-python detect.py
+python Detector.py
 ```
 
 ## Author
