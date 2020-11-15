@@ -32,6 +32,6 @@ If you liked the repo then kindly support it by giving it a star ⭐!
 If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
 
 ## Issues
-[![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/AIPakistan.svg?style=flat&label=Issues&maxAge=2592000)](Face-Classification-using-FaceNet-and-MTCNN/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Object-Detection-With-Tensorflow.svg?style=flat&label=Issues&maxAge=2592000)](Object-Detection-With-Tensorflow/issues)
 
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
