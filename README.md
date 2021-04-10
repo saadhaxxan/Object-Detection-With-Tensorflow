@@ -35,3 +35,6 @@ If you find any bug in the code or have any improvements in mind then feel free 
 [![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Object-Detection-With-Tensorflow.svg?style=flat&label=Issues&maxAge=2592000)](Object-Detection-With-Tensorflow/issues)
 
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
+
+## LICENSE
+- MIT (2021)
